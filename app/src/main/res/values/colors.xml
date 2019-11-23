@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#1d1f2d</color>
+    <color name="colorPrimaryTransparent">#b91d1f2d</color>
+    <color name="colorPrimaryDark">#CED0DD</color>
+    <color name="colorAccent">#1D1D1D</color>
+    <color name="colorAccentLight">#87ffffff</color>
+    <color name="colorTextDark">#121216</color>
+    <color name="colorTextLight">#34343e</color>
+    <color name="colorTextExtraLight">#9292a4</color>
+    <color name="colorBackground">#E9E3E3</color>
+    <color name="colorCardBackground">#f8f8fa</color>
+</resources>
